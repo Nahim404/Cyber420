@@ -138,8 +138,8 @@ class Main:
     """)
 		print("%s [%s•%s] %sTOOL NAME : %s2009 Cloning Tool"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s6"%(G,R,G,B,G))
-		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
-		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
+
+
 		print("───────────────────────────────────────────────────────× ")
 		print(" \t\033[1;97m[\x1b[1;97m\x1b[1;41m FOLLOW MY FACEBOOK ACCOUNT FIRST \x1b[0m\x1b[1;97m] \033[1;37m ")
 		subprocess.check_output(["am", "start", "https://chat.whatsapp.com/HUkh6QI82SZ1ixw5KRP9j4"])
