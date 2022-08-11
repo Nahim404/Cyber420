@@ -131,7 +131,7 @@ class Main:
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m MR.NAHIM\x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version : 6\x1b[0m\x1b[1;97m] \033[1;37m 
  ───────────────────────────────────────────────────────×
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : Mr.NAHIM \x1b[0m\x1b[1;97m]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m Author   : MR.NAHIM \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Github   :  Nahim404 \x1b[0m\x1b[1;97m]
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Facebook : Chand Muhammad Khan \x1b[0m\x1b[1;97m]
 ───────────────────────────────────────────────────────× 
