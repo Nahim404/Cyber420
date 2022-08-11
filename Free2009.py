@@ -149,14 +149,14 @@ class Main:
 		print("───────────────────────────────────────────────────────× ")
 		
 	
-		elif tanya in ["1", "01"]:
-			if basesplit in plr:
-			        self.fbtua()
-			else: 
-				notice()
-				exit()
-		else:
-			Main()
+
+	
+
+
+	
+		
+	
+
 
 	def fbtua(self):
 		x = 11111111
