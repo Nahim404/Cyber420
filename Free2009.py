@@ -88,14 +88,14 @@ def helpnote():
 	print("%s [=>] FOLLOW ME ON  FB TU KNOW ABOUT UPDATES  :)"%(G))
 	
 	
-	exit(" [=>] FACEBOOK :  https://www.facebook.com/bap.dakbi")
+	exit(" [=>] FACEBOOK :  https://www.facebook.com/CYBER.420.CEO.Mr.NAHIM")
 
 
-def notice():
+
 
         
-plist = (platform.uname())[2]
-basex = plist
+
+
 basex1 = basex.encode('ascii')
 basex2 = base64.b64encode(basex1)
 basex3 = basex2.decode('ascii')
