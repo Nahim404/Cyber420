@@ -44,7 +44,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
 br.set_handle_robots(False)
-br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
+printbr.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(), max_time=1)
 br.addheaders = [
  ('user-agent', 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0 Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0')]
 
@@ -68,7 +68,7 @@ def cb():
     os.system('clear')
 
 
-logo = 
+print=Logo
        \033[1;92m /$$      /$$  /$$$$$$  /$$$$$$$  /$$   /$$ /$$$$$$$$
       \033[1;92m: | $$$    /$$$ /$$__  $$| $$__  $$| $$  | $$| $$_____/
       \033[1;92m: | $$$$  /$$$$| $$  \ $$| $$  \ $$| $$  | $$| $$      
