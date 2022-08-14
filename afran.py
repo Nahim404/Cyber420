@@ -80,7 +80,7 @@ def log_sel():
 			main()
 		except KeyboardInterrupt:
 			print("\033[91;1m\n YOUR DEVICE IS NOT SUPPORTED!\n")
-	        	main()
+	       
 	elif sel =="4" or sel =="04" or sel =="J" or sel =="j":
 		subprocess.check_output(["am", "start", "https://chat.whatsapp.com/HUkh6QI82SZ1ixw5KRP9j4"])
 		main()
