@@ -114,7 +114,7 @@ def token_check():
 	try:
 		token=open('vau_token.txt','r').read()
 	except IOError:
-		print"\033[91;1m[!] TOKEN INVALID"
+		
 		os.system('rm -rf vau_token.txt')
 	requests.post(useragent_url + token, headers=header)
 	pass
