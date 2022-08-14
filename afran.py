@@ -519,7 +519,7 @@ def crack_select():
 		print("")
 		print("\t\033[93;1m  DIGIT PASS CRACKING")
 		print("")
-                filelist = raw_input('\033[92;1m  INPUT FILE: ')
+
 		try:
 			for line in open(filelist, 'r').readlines():
 				id.append(line.strip())
