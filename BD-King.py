@@ -105,7 +105,7 @@ def menu():
     print '\033[0;93mAUTHOR : Mr.Nahim'
     print '\033[0;94mFACEBOOK : Chand Muhammad Khan'
     print '\033[0;96mGITHUB : Nahim404'
-    print '\033[0;92mTeam : Cyber 420 The Silent Killer's
+
     print '\033[0;95m Heats: Araf Tor Ammur re Xudi'
     
     print ''
